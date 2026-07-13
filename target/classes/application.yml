@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+aws:
+  dynamodb:
+    endpoint: "http://localhost:8000"
+    region: "eu-west-1"
+    access-key: "fakeMyKeyId"
+    secret-key: "fakeSecretAccessKey"

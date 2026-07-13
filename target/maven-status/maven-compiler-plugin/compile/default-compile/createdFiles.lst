@@ -1,0 +1,15 @@
+com\alarbon\dynamodb\adapters\inbound\rest\ProductController.class
+com\alarbon\dynamodb\adapters\outbound\persistence\entity\ProductDynamoEntity.class
+com\alarbon\dynamodb\adapters\inbound\rest\dto\ProductResponse$ProductResponseBuilder.class
+com\alarbon\dynamodb\adapters\inbound\rest\exception\GlobalExceptionHandler.class
+com\alarbon\dynamodb\SpringDynamodbApiApplication.class
+com\alarbon\dynamodb\config\DynamoDbConfig.class
+com\alarbon\dynamodb\ports\outbound\ProductRepositoryPort.class
+com\alarbon\dynamodb\adapters\outbound\persistence\ProductRepositoryAdapter.class
+com\alarbon\dynamodb\domain\model\Product.class
+com\alarbon\dynamodb\adapters\inbound\rest\dto\CreateProductRequest.class
+com\alarbon\dynamodb\adapters\inbound\rest\dto\ProductResponse.class
+com\alarbon\dynamodb\domain\service\ProductService.class
+com\alarbon\dynamodb\domain\model\Product$ProductBuilder.class
+com\alarbon\dynamodb\domain\exception\ProductNotFoundException.class
+com\alarbon\dynamodb\ports\inbound\ProductUseCase.class
